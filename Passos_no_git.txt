@@ -14,3 +14,8 @@ Manual de uso do Git
 3 - Registar arquivos no repositório
 
 ~ git commit -m "Aqui vai o comentário da atualização"
+
+4 - Ver todos os Commits feitos
+
+~ git log
+~ git log -p (Mostras os commits com detalhes das alterações)
