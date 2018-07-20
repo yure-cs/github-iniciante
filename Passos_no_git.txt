@@ -1,0 +1,5 @@
+Manual de uso do Git
+--------------------------------
+
+1 - Inicializar repositório:
+~ git init
