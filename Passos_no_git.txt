@@ -2,4 +2,11 @@ Manual de uso do Git
 --------------------------------
 
 1 - Inicializar repositório:
+
 ~ git init
+
+2 - Adicionar arquivos na Stage Area
+
+~ git add . (Adiciona todos os arquivos alterados e novos)
+~ git add *.txt (Adiciona todos os arquivos alterados de um tipo específico)
+~ git add arquivo.txt (Adiciona arquivo alterado específico)
