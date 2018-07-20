@@ -10,3 +10,7 @@ Manual de uso do Git
 ~ git add . (Adiciona todos os arquivos alterados e novos)
 ~ git add *.txt (Adiciona todos os arquivos alterados de um tipo específico)
 ~ git add arquivo.txt (Adiciona arquivo alterado específico)
+
+3 - Registar arquivos no repositório
+
+~ git commit -m "Aqui vai o comentário da atualização"
