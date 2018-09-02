@@ -19,6 +19,7 @@ Manual de uso do Git
 
 ~ git log
 ~ git log -p (Mostras os commits com detalhes das alterações)
+~ git log --pretty=oneline (Mostrar os commits em uma linha cada)
 
 5 - Criar tags para Commits
 
