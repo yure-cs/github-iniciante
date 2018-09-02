@@ -19,3 +19,11 @@ Manual de uso do Git
 
 ~ git log
 ~ git log -p (Mostras os commits com detalhes das alterações)
+~ git log --pretty=oneline (Mostrar os commits em uma linha cada)
+
+5 - Criar tags para Commits
+
+~ git tag -a v1.0 -m "Versão 1.0" (Cria uma tag para o commit atual)
+~ git tag (Lista as tags existentes)
+~ git tag -d v1.0 (Deleta uma tag)
+~ git checkout v1.0 (Muda o repositório para a tag escolhida)
