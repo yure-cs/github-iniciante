@@ -27,3 +27,17 @@ Manual de uso do Git
 ~ git tag (Lista as tags existentes)
 ~ git tag -d v1.0 (Deleta uma tag)
 ~ git checkout v1.0 (Muda o repositório para a tag escolhida)
+
+
+6 - Criar branchs no projeto
+
+~ git branch novo_branch (Crian um branch no projeto)
+~ git branch (Lista todos os branchs exitentes no projeto)
+
+7 - Transitar entre Branchs ou Tags
+
+~ git checkout [branch ou tag]
+
+8 - Mesclar conteudo de um branch a outro
+
+~ git merge [branch]
