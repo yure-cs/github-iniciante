@@ -29,7 +29,6 @@ Manual de uso do Git
 ~ git tag -d v1.0 (Deleta uma tag)
 ~ git checkout v1.0 (Muda o repositório para a tag escolhida)
 
-
 6 - Criar branchs no projeto
 
 ~ git branch novo_branch (Crian um branch no projeto)
@@ -42,3 +41,9 @@ Manual de uso do Git
 8 - Mesclar conteudo de um branch a outro
 
 ~ git merge [branch]
+
+9 - Interações com repositório remoto
+
+~ git remote (Exibir repositórios remotos)
+~ git push origin master (Enviar arquivos commitados para o repositório) 
+~ git pull origin master (Baixar arquivos commitados do repositório)
