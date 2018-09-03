@@ -24,6 +24,7 @@ Manual de uso do Git
 5 - Criar tags para Commits
 
 ~ git tag -a v1.0 -m "Versão 1.0" (Cria uma tag para o commit atual)
+~ git tag -a v1.0 dd508f2fc6e08714e5a24bfddb5c48197e2e8ec6 -m "Versão 1.0" (Cria uma tag para um commit específico, sinalizado pela hash do commit)
 ~ git tag (Lista as tags existentes)
 ~ git tag -d v1.0 (Deleta uma tag)
 ~ git checkout v1.0 (Muda o repositório para a tag escolhida)
