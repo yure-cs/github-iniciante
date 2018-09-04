@@ -1,5 +1,5 @@
 # github-iniciante
 
->1. Inicializar repositório:
+1. Inicializar repositório:
 
 >~ git init
