@@ -43,6 +43,8 @@ Este tutorial mostra o fluxo básico para operar no Git. :alien:
 
 ## 9. Interações com repositório remoto
 
+~ git clone https://github.com/yure-cs/{repositorio}.git (Clona repositório do github)  
+~ git remote add origin https://github.com/yure-cs/{repositorio}.git (Envia aquivos para o repositório)
 ~ git remote (Exibir repositórios remotos)  
 ~ git push origin master (Enviar arquivos commitados para o repositório)   
 ~ git pull origin master (Baixar arquivos commitados do repositório)
